@@ -1,0 +1,25 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0629732, 
+          "lon": -96.7264043
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/levelissco/LayarEq6/blob/master/casadelaciudad.jpg"
+      },
+      "id": 1, 
+      "text": {
+        "title": "Casa de la Ciudad",
+        "description": "La casa de la ciudad"
+      }
+    },
+  
+  ], 
+  "layer": "casadelaciudu4qu"
+}
