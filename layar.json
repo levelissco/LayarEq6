@@ -2,23 +2,34 @@
   "errorCode": 0, 
   "errorString": "ok", 
   "hotspots": [
-    
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.0629732, 
-          "lon": -96.7264043
+          "lat": 52.3686716, 
+          "lon": 4.886032200000001
+        }
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "This is a basic POI"
+      }
+    }, 
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 52.3686716, 
+          "lon": 4.9000322
         }
       }, 
       "icon": {
         "url": "https://github.com/levelissco/LayarEq6/blob/master/casadelaciudad.jpg"
-      },
-      "id": 1, 
+      }, 
+      "id": 2, 
       "text": {
-        "title": "Casa de la Ciudad"
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "This POI has a custom icon and description"
       }
-    },
-  
+    }
   ], 
   "layer": "casadelaciudu4qu"
 }
