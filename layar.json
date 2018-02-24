@@ -5,18 +5,6 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 52.3686716, 
-          "lon": 4.886032200000001
-        }
-      }, 
-      "id": 1, 
-      "text": {
-        "title": "This is a basic POI"
-      }
-    }, 
-    {
-      "anchor": {
-        "geolocation": {
           "lat": 17.0629732, 
           "lon": -96.7264043
         }
@@ -26,7 +14,7 @@
       }, 
       "id": 2, 
       "text": {
-        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "description": "La casa de la ciudad \nLa Casa de la Ciudad es una organización no gubernamental, \nque forma parte de las iniciativas de la Fundación Alfredo Harp Helú Oaxaca. \nFue fundada el 17 de enero del 2004 y tiene como objetivo ser un centro dedicado al estudio y análisis de la ciudad.", 
         "title": "La Casa De La Ciudad"
       }
     }
